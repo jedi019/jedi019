@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @jedi019
-- 👀 I’m interested in web developement and cybersec.
+- 👀 I’m interested in Web Development and CyberSec.
 - 🌱 I’m currently learning: HTML,CSS,Javascript.
 
 <!---
